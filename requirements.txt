@@ -9,7 +9,7 @@ gssapi==1.6.1
 importlib_metadata==0.23
 ipaddr==2.2.0
 lockfile==0.12.2
-lxml==4.4.1
+lxml==4.6.3
 mypy_extensions==0.4.2
 numpy==1.17.2
 ordereddict==1.1
