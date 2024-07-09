@@ -17,4 +17,4 @@ pyasn1==0.4.7
 toml==0.10.0
 usercustomize==1.0.0
 wincertstore==0.2
-zipp==0.6.0
+zipp==3.19.1
